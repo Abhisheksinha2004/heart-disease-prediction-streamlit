@@ -70,7 +70,7 @@ Heart disease is one of the leading causes of mortality worldwide. Early detecti
 ## 📁 Project Structure
 
 ```text
-Heart_disease/
+heart-disease-prediction-streamlit/
 │
 ├── app.py                   # Streamlit web application & prediction logic
 ├── logistic_regression.pkl  # Trained Logistic Regression model
