@@ -2,7 +2,9 @@
 
 A machine learning web application built with **Streamlit** and **Scikit-learn** that predicts the risk of heart disease based on clinical patient parameters using a pre-trained **Logistic Regression** model.
 
----
+## 🌐 Live Demo
+
+👉 [Heart Disease Prediction Web App](https://heart-disease-prediction-app-lmwzfrvwrhsf85aw8tdptd.streamlit.app/)
 
 ## 📌 Project Overview
 
@@ -88,8 +90,7 @@ heart-disease-prediction-streamlit/
 ### 1. Clone or Navigate to the Project Directory
 
 ```bash
-git clone https://github.com/<your-username>/Heart_disease.git
-cd Heart_disease
+git clone https://github.com/Abhisheksinha2004/heart-disease-prediction-streamlit.git
 ```
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
