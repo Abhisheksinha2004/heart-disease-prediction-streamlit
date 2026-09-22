@@ -10,6 +10,14 @@ Heart disease is one of the leading causes of mortality worldwide. Early detecti
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Try the Heart Disease Prediction App](https://heart-disease-prediction-app-lmwzfrvwrhsf85aw8tdptd.streamlit.app/)
+
+---
+
+
+
 ## ✨ Features
 
 - **Interactive User Interface**: Built with Streamlit, providing intuitive sliders, numeric inputs, and dropdown selectors.
